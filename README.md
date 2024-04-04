@@ -1,10 +1,10 @@
-# TRFL
+# TRFL Project
 
 TRFL (pronounced "truffle") is a library built on top of TensorFlow that exposes
 several useful building blocks for implementing Reinforcement Learning agents.
 
 
-## Installation
+## Installation Process
 
 TRFL can be installed from pip with the following command:
 `pip install trfl`
@@ -52,7 +52,7 @@ with extra information, using the above convention, but different functions
 may have different `extra` fields. Check the documentation of each function
 below for more information.
 
-# Documentation
+# Documentation Of the Project
 
 Check out the full documentation page
 [here](https://github.com/deepmind/trfl/blob/master/docs/index.md).
